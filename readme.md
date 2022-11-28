@@ -3,5 +3,5 @@
 ## Installation
 
 ```
-yarn add -D @waynevanson/prettier-config:https://github.com/waynevanson/prettier-config
+yarn add -D @waynevanson/prettier-config
 ```
